@@ -39,7 +39,7 @@ Random Forest Regressor achieved the lowest MAE & RMSE and highest R² score, ef
 
 The trained model was serialized using `joblib` and saved as `model.pkl` for reuse. It can be integrated into a Streamlit or Flask application for real-time rental demand prediction.
 
-**Project File:** [Download file (Google Drive)](https://drive.google.com/drive/folders/1s2G70cbnAOdjMdJMLQXyn0mR_bjv-Hy9?usp=drive_link)
+**Project File:** [Download file (Google Drive)](https://drive.google.com/drive/folders/1MEbpcNqpcTUDQlJYWamm5ZOfU7zZbbTS?usp=sharing)
 
 ## 🔗 Tech Stack
 
